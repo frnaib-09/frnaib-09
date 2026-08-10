@@ -14,7 +14,7 @@
 
 <p align="center">
 <samp>
-「 Lead ML Engineer building scalable AI systems, MLOps platforms, and distributed ML infrastructure 」  
+「 Full Stack Developer building scalable Web Applications, POS or IMS software 」  
 </samp>
 </p>
 
