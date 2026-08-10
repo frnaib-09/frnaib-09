@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hirad%20Emamialagha&fontSize=70&animation=twinkling" alt="Foyjur Rafee profile header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Foyjur%Rafee&fontSize=70&animation=twinkling" alt="Foyjur Rafee profile header" />
 </p>
 
 <!-- Title -->
