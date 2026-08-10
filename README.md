@@ -115,7 +115,7 @@
 </tr>
 </table>
 
-[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](https://github.com/hiradEmami)
+[![divider_moving_neon_gradient](https://raw.githubusercontent.com/FoyjurRafee/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](https://github.com/frnaib-09)
 
 ### 📊 Vital Statistics
 
@@ -129,7 +129,7 @@
 </p>    
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HiradEmami&label=PROFILE%20VIEWS&color=36BCF7&style=flat-square" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=FoyjurRafee&label=PROFILE%20VIEWS&color=36BCF7&style=flat-square" alt="Views" />
 </p>
 
 <p align="center">
@@ -192,7 +192,7 @@ I’m open to collaborating on:
 </tr>
 </table>
 
-[![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/hiradEmami)
+[![divider_twin_serpant](https://raw.githubusercontent.com/FoyjurRafee/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/frnaib-09)
 
 <p align="center">
 ⚡ Building scalable Web Applicaitons!
@@ -211,7 +211,7 @@ Star ⭐ the repos if they helped you!
 
 <p align="center">
     <a href="docs/hidden/easter_egg.md">
-        <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/icons/devops/icon_heartbeat_node.svg" width="20px" alt="Hidden easter egg link">
+        <img src="https://raw.githubusercontent.com/frnaib-09/readme-ux-kit/master/assets/icons/devops/icon_heartbeat_node.svg" width="20px" alt="Hidden easter egg link">
     </a>
 </p>
 
