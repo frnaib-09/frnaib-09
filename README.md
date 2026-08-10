@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hirad%20Emamialagha&fontSize=70&animation=twinkling" alt="Hirad Emamialagha profile header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hirad%20Emamialagha&fontSize=70&animation=twinkling" alt="Foyjur Rafee profile header" />
 </p>
 
 <!-- Title -->
 <h3 align="center">
     <samp>
         &gt; Hey There!, I am
-        <b><a target="_blank" href="https://www.linkedin.com/in/hirad-alagha/">Hirad Emamialagha</a></b>
+        <b><a target="_blank" href="https://www.linkedin.com/in/foyjur-rafee-9aa8513b1/">Foyjur Rafee</a></b>
     </samp>
 </h3>
 
@@ -39,7 +39,7 @@
 <p align="center">
 
 <a href="https://hirademami.github.io/">
-  <img width="82%" src="./docs/img/system/portal_main.svg" alt="Hirad System portal" />
+  <img width="82%" src="./docs/img/system/portal_main.svg" alt="Foyjur System portal" />
 </a>
 
 </p>
@@ -172,7 +172,7 @@
   <img src="https://img.shields.io/badge/Code%20Time-3817%20hrs%2020%20mins-blue?style=flat" alt="Views" />
 </p>
 
-[![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/hiradEmami)
+[![divider_twin_serpant](https://raw.githubusercontent.com/FoyjurRafee/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/frnaib-09)
 
 <table width="100%" border="0" cellspacing="10" cellpadding="0">
 <tr>
@@ -185,10 +185,12 @@
 I’m open to collaborating on:
 
 <ul>
-  <li>ML infrastructure projects</li>
+  <li>E-Commerce Website</li>
   <li>Reinforcement learning systems</li>
-  <li>Robotics & autonomous systems</li>
+  <li>School/ OFfice Management System</li>
   <li>Large-scale AI platforms</li>
+  <li>Portfolio Website</li>
+  <li>Web Applications</li>
 </ul>
 
 </td>
@@ -207,17 +209,17 @@ I’m open to collaborating on:
 
 <br>
 
-<a href="https://hirademami.github.io/">
+<a href="https://frnaib-09.github.io/foyjur-rafee-99">
   <img src="https://img.shields.io/badge/Personal%20Website-hirademami.github.io-36BCF7?style=for-the-badge&logo=google-chrome" alt="Personal website link">
 </a>
 <br><br>
 
-<a href="mailto:hirad.alagha@outlook.com">
+<a href="foyjurrafee99@gmail.com">
   <img src="https://img.shields.io/badge/email-hirad.alagha@outlook.com-red?style=for-the-badge&logo=gmail" alt="Email contact link">
 </a>
 <br><br>
 
-<a href="https://www.linkedin.com/in/hirad-alagha/">
+<a href="https://www.linkedin.com/in/foyjur-rafee-9aa8513b1/">
   <img src="https://img.shields.io/badge/linkedin-hirad--alagha-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn profile link">
 </a>
 
@@ -229,7 +231,7 @@ I’m open to collaborating on:
 [![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/hiradEmami)
 
 <p align="center">
-⚡ Building scalable AI systems and machine learning infrastructure
+⚡ Building scalable Web Applicaitons!
 </p>
 <p align="center">
 Star ⭐ the repos if they helped you!
